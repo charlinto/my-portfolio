@@ -35,7 +35,7 @@ const Nav = () => {
     return (<div className="flex justify-center items-center w-[100%] lg:w-full">
         <div className={`flex justify-center items-center mt-0 ${stickyNav ? 'font-sora top-0 z-50 mt-0 w-full lg:w-[100%] fixed' : 'mx-0 lg:mx-[30px] w-full lg:w-[90%]'} `}>
             <div className={`flex justify-between items-center bg-black h-[65px] px-8 font-sora absolute top-0 z-50  ${stickyNav ? 'lg:w-full font-sora top-0 z-50 mt-0 w-full fixed' : 'lg:mx-[30px] w-full mx-0 lg:w-[90%] mt-0 lg:mt-[19px]'} `}>
-                <p className="lg:text-[30px] leading-[46px] text-white font-sora font-bold">Dez-folio.</p>
+                <p className="lg:text-[30px] leading-[46px] text-white font-sora font-bold">Linto-folio.</p>
 
                 <div>
                     <ul className=" hidden lg:flex justify-between gap-8 font-mulish text-[16px] text-gray-400">

@@ -22,19 +22,19 @@ const Contact = () => {
                     <div>
                         <p className="font-sora pb-5 text-white">Follow Me</p>
 
-                        <p className="text-[20px] pb-2"><Link target='_blank' href='https://github.com/Desmond-Fon' className="hover:text-white"> Github</Link></p>
-                        <p className="text-[20px] pb-2"><Link target='_blank' href='https://www.linkedin.com/in/desmond-fon/' className="hover:text-white">LinkedIn</Link></p>
-                        <p className="text-[20px] pb-2"><Link target='_blank' href='https://twitter.com/DezmondFon' className="hover:text-white">Twitter</Link></p>
-                        <p className="text-[20px] pb-2"><Link target='_blank' href='https://www.instagram.com/dezmond_fon/' className="hover:text-white"> Instagram</Link></p>
-                        <p className="text-[20px] pb-2"><Link target='_blank' href='https://wa.me/07017111908' className="hover:text-white"> Whatsapp</Link></p>
+                        <p className="text-[20px] pb-2"><Link target='_blank' href='https://github.com/charlinto' className="hover:text-white"> Github</Link></p>
+                        <p className="text-[20px] pb-2"><Link target='_blank' href='https://www.linkedin.com/in/fyaklek-charles-b62105210/' className="hover:text-white">LinkedIn</Link></p>
+                        <p className="text-[20px] pb-2"><Link target='_blank' href='https://twitter.com/Charlintof' className="hover:text-white">Twitter</Link></p>
+                        <p className="text-[20px] pb-2"><Link target='_blank' href='https://www.instagram.com/charlinto/' className="hover:text-white"> Instagram</Link></p>
+                        <p className="text-[20px] pb-2"><Link target='_blank' href='https://wa.me/08167403660' className="hover:text-white"> Whatsapp</Link></p>
                     </div>
 
                     <div>
                         <p className="font-sora pb-5 text-white">Contact Me</p>
 
-                        <p className="text-[20px] pb-2"><Link target="_blank" href={"mailto:desmondfon@yahoo.com?subject=Mail to Desmond"} className="hover:text-white">desmondfon@yahoo.com</Link></p>
-                        <p className="text-[20px] pb-2"><Link target="_blank" href={"mailto:dezmondfon@gmail.com?subject=Mail to Fon"} className="hover:text-white">dezmondfon@gmail.com</Link></p>
-                        <p className="text-[20px] pb-2"><Link href="tel:07017111908" className="hover:text-white">+234 701 711 1908</Link></p>
+                        <p className="text-[20px] pb-2"><Link target="_blank" href={"mailto:fyaklekpanshak@yahoo.com?subject=Mail Charlinto"} className="hover:text-white">fyaklekpanshak@yahoo.com</Link></p>
+                        <p className="text-[20px] pb-2"><Link target="_blank" href={"mailto:fyaklekpanshak@gmail.com?subject=Mail to Charlinto"} className="hover:text-white">fyaklekpanshak@gmail.com</Link></p>
+                        <p className="text-[20px] pb-2"><Link href="tel:08167403660" className="hover:text-white">+234 8167403660</Link></p>
 
                     </div>
                 </div>
@@ -44,13 +44,13 @@ const Contact = () => {
 
         <div className="flex justify-center lg:justify-between items-end font-mulish text-[23px] gap-10 mb-24 flex-col lg:flex-row">
 
-            <Link target="_blank" href={"mailto:desmondfon@yahoo.com?subject=Mail to Desmond"} className="hover:text-white w-full lg:w-1/2">
+            <Link target="_blank" href={"mailto:fyaklekpanshak@gmail.com?subject=Mail to Charlinto"} className="hover:text-white w-full lg:w-1/2">
                 <button className="w-full h-[65px] text-[16px] bg-red-600 text-white tracking-[6px] font-bold hover:bg-red-500 hover:text-white">
                     MESSAGE ME
                 </button>
             </Link>
 
-            <Link target="_blank" href="https://drive.google.com/file/d/1Lk2OjKKvsi5Dl7Td3XbTTN5WA1tMXgH8/view?usp=sharing" className="w-full lg:w-1/2">
+            <Link target="_blank" href="https://drive.google.com/file/d/1waYTB0m-ck3Dr3fk95oNTRaIjUnpZlvd/view?usp=sharing" className="w-full lg:w-1/2">
                 <button className="w-full h-[65px] text-[16px] border-[2px] border-white bg-black text-white tracking-[6px] font-bold hover:bg-white hover:text-black">
                     GET MY CV
                 </button>
@@ -61,7 +61,7 @@ const Contact = () => {
 
         <div className="text-gray-400 pt-12 lg:text-right flex gap-5 lg:gap-10 justify-start flex-col lg:flex-row lg:justify-end">
             <p>© Copyright Hudson 2023</p>
-            <p> Built by Fon Desmond 😁❤️</p>
+            <p> <a href="https://dez-folio.netlify.app">Built by Desmond 😁❤️</a></p>
         </div>
 
     </div>);

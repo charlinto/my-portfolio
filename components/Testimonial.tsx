@@ -36,7 +36,7 @@ export default function Testimonial() {
                             </div>
 
                             <div className="text-left text-[15px]">
-                                <p> I have worked with Desmond Fon as a colleague, he is a very detailed individual who is diligent about their work and super hardworking.</p>
+                                <p> I have worked with Charlinto as a colleague, he is a very detailed individual who is diligent about their work and super hardworking.</p>
                             </div>
                         </div>
                     </SwiperSlide>
@@ -53,7 +53,7 @@ export default function Testimonial() {
                             </div>
 
                             <div className="text-left text-[15px]">
-                                <p>Desmond you are really good at what you do and in a short time you have been able to amass so much knowledge and that is impressive. I love your attention to detail and how you pull off complex designs with ease.
+                                <p>Charlinto you are really good at what you do and in a short time you have been able to amass so much knowledge and that is impressive. I love your attention to detail and how you pull off complex designs with ease.
                                     Well done I enjoyed working with you 👍.</p>
                             </div>
                         </div>
@@ -71,7 +71,7 @@ export default function Testimonial() {
                             </div>
 
                             <div className="text-left text-[15px]">
-                                <p> I started my tech journey in September 2022. It wasn&apos;t easy but I was lucky to have Desmond there because he wasn&apos;t only a friend but also a teacher. He is a really talented programmer and knows what he is doing.</p>
+                                <p> I started my tech journey in September 2022. It wasn&apos;t easy but I was lucky to have Charlinto there because he wasn&apos;t only a friend but also a teacher. He is a really talented programmer and knows what he is doing.</p>
                             </div>
                         </div>
                     </SwiperSlide>
@@ -105,7 +105,7 @@ export default function Testimonial() {
                             </div>
 
                             <div className="text-left text-[15px]">
-                                <p>Desmond isn't just a coding machine - he's also a great team player who knows how to keep things fun and lighthearted. If you want a frontend developer who can bring technical expertise and a great sense of humor to the table, then Desmond is your guy.</p>
+                                <p>Charlinto isn't just a coding machine - he's also a great team player who knows how to keep things fun and lighthearted. If you want a frontend developer who can bring technical expertise and a great sense of humor to the table, then Desmond is your guy.</p>
                             </div>
                         </div>
                     </SwiperSlide>
@@ -122,7 +122,7 @@ export default function Testimonial() {
                             </div>
 
                             <div className="text-left text-[15px]">
-                                <p>Desmond is a dedicated web developer who has a never give up attitude and is always ready to take on new challenges to get his task done.</p>
+                                <p>Charlinto is a dedicated web developer who has a never give up attitude and is always ready to take on new challenges to get his task done.</p>
                             </div>
                         </div>
                     </SwiperSlide>
@@ -153,7 +153,7 @@ export default function Testimonial() {
                             </div>
 
                             <div className="text-left md:text-[16px] lg:text-[18px]">
-                                <p> I have worked with Desmond Fon as a colleague, he is a very detailed individual who is diligent about their work and super hardworking.</p>
+                                <p> I have worked with Charlinto Fon as a colleague, he is a very detailed individual who is diligent about their work and super hardworking.</p>
                             </div>
                         </div>
                     </SwiperSlide>
@@ -170,7 +170,7 @@ export default function Testimonial() {
                             </div>
 
                             <div className="text-left md:text-[16px] lg:text-[18px]">
-                                <p>Desmond you are really good at what you do and in a short time you have been able to amass so much knowledge and that is impressive. I love your attention to detail and how you pull off complex designs with ease.
+                                <p>Charlinto you are really good at what you do and in a short time you have been able to amass so much knowledge and that is impressive. I love your attention to detail and how you pull off complex designs with ease.
                                     Well done I enjoyed working with you 👍.</p>
                             </div>
                         </div>
@@ -188,7 +188,7 @@ export default function Testimonial() {
                             </div>
 
                             <div className="text-left md:text-[16px] lg:text-[18px]">
-                                <p> I started my tech journey in September 2022. It wasn&apos;t easy but I was lucky to have Desmond there because he wasn&apos;t only a friend but also a teacher. He is a really talented programmer and knows what he is doing.</p>
+                                <p> I started my tech journey in September 2022. It wasn&apos;t easy but I was lucky to have Charlinto there because he wasn&apos;t only a friend but also a teacher. He is a really talented programmer and knows what he is doing.</p>
                             </div>
                         </div>
                     </SwiperSlide>
@@ -222,7 +222,7 @@ export default function Testimonial() {
                             </div>
 
                             <div className="text-left md:text-[16px] lg:text-[18px]">
-                                <p>Desmond isn't just a coding machine - he's also a great team player who knows how to keep things fun and lighthearted. If you want a frontend developer who can bring technical expertise and a great sense of humor to the table, then Desmond is your guy.</p>
+                                <p>Charlinto isn't just a coding machine - he's also a great team player who knows how to keep things fun and lighthearted. If you want a frontend developer who can bring technical expertise and a great sense of humor to the table, then Desmond is your guy.</p>
                             </div>
                         </div>
                     </SwiperSlide>
@@ -239,7 +239,7 @@ export default function Testimonial() {
                             </div>
 
                             <div className="text-left md:text-[16px] lg:text-[18px]">
-                                <p>Desmond is a dedicated web developer who has a never give up attitude and is always ready to take on new challenges to get his task done.</p>
+                                <p>Charlinto is a dedicated web developer who has a never give up attitude and is always ready to take on new challenges to get his task done.</p>
                             </div>
                         </div>
                     </SwiperSlide>

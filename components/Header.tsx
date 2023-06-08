@@ -3,11 +3,11 @@ import Link from "next/link";
 const Header = () => {
   return (
     <>
-      <div id="top" className="lg:flex lg:h-[800px] md:h-[700px] lg:justify-between justify-center lg:items-end lg:bg-gray-200 lg:mb-32 lg:w-[100%] lg:bg-[url('')] bg-[url('https://res.cloudinary.com/dvikxcdh3/image/upload/v1682092278/mee_g394i7.jpg')] bg-center bg-cover w-full md:w-full min-h-[100%] h-[650px]">
+      <div id="top" className="lg:flex lg:h-[800px] md:h-[700px] lg:justify-between justify-center lg:items-end lg:bg-gray-200 lg:mb-32 lg:w-[100%] lg:bg-[url('')] bg-[url('https://res.cloudinary.com/nhub-charlinto/image/upload/v1686236490/337139735_1706342869818220_1944788761355706126_n_u7skbl.jpg')] bg-center bg-cover w-full md:w-full min-h-[100%] h-[650px]">
         <div className="lg:w-[50%] w-[100wh] lg:text-start lg:px-20 lg:pt-44 lg:pb-32 pt-64 text-center mb-[57px]">
           <p className="lg:text-red-700 text-white tracking-[3px] text-[14px] lg:text-[18px] lg:font-medium text-center lg:text-left font-bold">HELLO</p>
           <h1 className="font-sora text-[28px] lg:text-[52px] leading-[30px] lg:leading-[74px] lg:text-lightGray font-bold px-5">
-            I'm Desmond Fon, a web developer from Nigeria.
+            I'm Charles Michael Fyaklek, a web developer from Nigeria.
           </h1>
 
           <div className="flex flex-col lg:flex-row lg:justify-start items-center gap-5 mt-10">
@@ -28,7 +28,7 @@ const Header = () => {
 
           <div className="hidden absolute bottom-[185px] left-[-50px] lg:flex items-center">
             <div className="w-[100px] h-[2px] bg-white"></div>
-            <Link target="_blank" href="https://drive.google.com/file/d/1Lk2OjKKvsi5Dl7Td3XbTTN5WA1tMXgH8/view?usp=sharing">
+            <Link target="_blank" href="https://drive.google.com/file/d/1waYTB0m-ck3Dr3fk95oNTRaIjUnpZlvd/view?usp=sharing">
               <button className="w-[200px] h-[55px] text-[12px] border-[2px] border-white bg-black text-white tracking-[4px] font-medium hover:bg-white hover:text-black">
                 GET MY CV
               </button>
@@ -37,7 +37,7 @@ const Header = () => {
 
           <div className="lg:hidden relative">
             <div className="w-[25px] h-[2px] bg-white absolute top-[26px] left-2"></div>
-            <Link target="_blank" href="https://drive.google.com/file/d/1Lk2OjKKvsi5Dl7Td3XbTTN5WA1tMXgH8/view?usp=share_link" className="mt-24">
+            <Link target="_blank" href="https://drive.google.com/file/d/1waYTB0m-ck3Dr3fk95oNTRaIjUnpZlvd/view?usp=sharing" className="mt-24">
               <button className="w-[200px] h-[55px] text-[12px] text-white tracking-[4px] font-bold hover:bg-white hover:text-black">
                 GET MY CV
               </button>
@@ -46,7 +46,7 @@ const Header = () => {
 
           <div className="w-full h-full hidden lg:block">
             <img
-              src="https://res.cloudinary.com/dvikxcdh3/image/upload/v1682092278/mee_g394i7.jpg"
+              src="https://res.cloudinary.com/nhub-charlinto/image/upload/v1686236490/337139735_1706342869818220_1944788761355706126_n_u7skbl.jpg"
               alt="" className="w-full h-full"
             />
           </div>
