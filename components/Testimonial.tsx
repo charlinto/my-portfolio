@@ -153,7 +153,7 @@ export default function Testimonial() {
                             </div>
 
                             <div className="text-left md:text-[16px] lg:text-[18px]">
-                                <p> I have worked with Charlinto Fon as a colleague, he is a very detailed individual who is diligent about their work and super hardworking.</p>
+                                <p> I have worked with Charlinto  as a colleague, he is a very detailed individual who is diligent about their work and super hardworking.</p>
                             </div>
                         </div>
                     </SwiperSlide>

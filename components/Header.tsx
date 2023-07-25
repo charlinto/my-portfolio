@@ -28,7 +28,7 @@ const Header = () => {
 
           <div className="hidden absolute bottom-[185px] left-[-50px] lg:flex items-center">
             <div className="w-[100px] h-[2px] bg-white"></div>
-            <Link target="_blank" href="https://drive.google.com/file/d/1waYTB0m-ck3Dr3fk95oNTRaIjUnpZlvd/view?usp=sharing">
+            <Link target="_blank" href="https://drive.google.com/file/d/1wVanQPIwrFo6AXF3mj8CHKic8a3ChhMq/view?usp=drivesdk">
               <button className="w-[200px] h-[55px] text-[12px] border-[2px] border-white bg-black text-white tracking-[4px] font-medium hover:bg-white hover:text-black">
                 GET MY CV
               </button>
@@ -37,7 +37,7 @@ const Header = () => {
 
           <div className="lg:hidden relative">
             <div className="w-[25px] h-[2px] bg-white absolute top-[26px] left-2"></div>
-            <Link target="_blank" href="https://drive.google.com/file/d/1waYTB0m-ck3Dr3fk95oNTRaIjUnpZlvd/view?usp=sharing" className="mt-24">
+            <Link target="_blank" href="https://drive.google.com/file/d/1wVanQPIwrFo6AXF3mj8CHKic8a3ChhMq/view?usp=drivesdk" className="mt-24">
               <button className="w-[200px] h-[55px] text-[12px] text-white tracking-[4px] font-bold hover:bg-white hover:text-black">
                 GET MY CV
               </button>
