@@ -105,7 +105,7 @@ export default function Testimonial() {
                             </div>
 
                             <div className="text-left text-[15px]">
-                                <p>Charlinto isn't just a coding machine - he's also a great team player who knows how to keep things fun and lighthearted. If you want a frontend developer who can bring technical expertise and a great sense of humor to the table, then Desmond is your guy.</p>
+                                <p>Charlinto isn't just a coding machine - he's also a great team player who knows how to keep things fun and lighthearted. If you want a backend developer who can bring technical expertise and a great sense of humor to the table, then charlinto is your guy.</p>
                             </div>
                         </div>
                     </SwiperSlide>
@@ -222,7 +222,7 @@ export default function Testimonial() {
                             </div>
 
                             <div className="text-left md:text-[16px] lg:text-[18px]">
-                                <p>Charlinto isn't just a coding machine - he's also a great team player who knows how to keep things fun and lighthearted. If you want a frontend developer who can bring technical expertise and a great sense of humor to the table, then Desmond is your guy.</p>
+                                <p>Charlinto isn't just a coding machine - he's also a great team player who knows how to keep things fun and lighthearted. If you want a backend developer who can bring technical expertise and a great sense of humor to the table, then charlinto is your guy.</p>
                             </div>
                         </div>
                     </SwiperSlide>

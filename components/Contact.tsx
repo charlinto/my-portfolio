@@ -61,7 +61,7 @@ const Contact = () => {
 
         <div className="text-gray-400 pt-12 lg:text-right flex gap-5 lg:gap-10 justify-start flex-col lg:flex-row lg:justify-end">
             <p>© Copyright Hudson 2023</p>
-            <p> <a href="https://dez-folio.netlify.app">Built by Desmond 😁❤️</a></p>
+            <p> <a href="https://dez-folio.netlify.app">Built by Charlinto 😁❤️</a></p>
         </div>
 
     </div>);
