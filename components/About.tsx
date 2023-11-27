@@ -39,6 +39,10 @@ My passion for problem-solving and attention to detail drive me to write clean a
                         <p className="text-[16px] md:text-[18px] lg:text-xl">nHub Nigeria</p>
                         <p className="text-gray-500">Meet Lead</p>
                     </div>
+                    <div className="mb-5">
+                        <p className="text-[16px] md:text-[18px] lg:text-xl">Ahub Technology</p>
+                        <p className="text-gray-500">Tutor</p>
+                    </div>
                 </div>
 
                 <div className='mb-[30px]'>
@@ -54,6 +58,10 @@ My passion for problem-solving and attention to detail drive me to write clean a
                     <div className="mb-5">
                         <p className="text-[16px] md:text-[18px] lg:text-xl">Javascript</p>
                     </div>
+                    <div className="mb-5">
+                        <p className="text-[16px] md:text-[18px] lg:text-xl">Reactjs</p>
+                    </div>
+                    
                     <div className="mb-5">
                         <p className="text-[16px] md:text-[18px] lg:text-xl">HTML</p>
                     </div>
@@ -83,6 +91,15 @@ My passion for problem-solving and attention to detail drive me to write clean a
                     <div className="mb-5">
                         <p className="text-[16px] md:text-[18px] lg:text-xl">Nest JS</p>
                     </div>
+                    <div className="mb-5">
+                        <p className="text-[16px] md:text-[18px] lg:text-xl">Nextjs</p>
+                    </div>
+                    <div className="mb-5">
+                        <p className="text-[16px] md:text-[18px] lg:text-xl">Reactjs JS</p>
+                    </div>
+                    <div className="mb-5">
+                        <p className="text-[16px] md:text-[18px] lg:text-xl">Sanity.io</p>
+                    </div>
                     
                 </div>
                 <div>
@@ -93,6 +110,9 @@ My passion for problem-solving and attention to detail drive me to write clean a
                     </div>
                     <div className="mb-5">
                         <p className="text-[16px] md:text-[18px] lg:text-xl">Mongodb</p>
+                    </div>
+                    <div className="mb-5">
+                        <p className="text-[16px] md:text-[18px] lg:text-xl">MySql</p>
                     </div>
                 </div>
             </div>

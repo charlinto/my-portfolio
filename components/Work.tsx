@@ -25,6 +25,7 @@ const Work = () => {
 
 
       <Card description="Collaboratd with some developers to develop a site for e-learning called infinity-gem ,I work on the backend " site='https://infinity-gem.bluehouseng.com/' image="https://res.cloudinary.com/nhub-charlinto/image/upload/v1686241514/Screenshot_from_2023-06-08_17-24-29_alasnp.png"  />
+      <Card description="I build the full application with reactjs and twilwind css " site='https://bespoke-kringle-247bff.netlify.app/' image="https://asset.cloudinary.com/nhub-charlinto/d56c8c5db1053de11389d6484e0574f3"  />
 
 
       
